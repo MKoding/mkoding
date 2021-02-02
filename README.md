@@ -8,7 +8,7 @@
 ## 📝 About me
 
 <!-- * 💻 I'm a (WORK) -->
-* 🎓 I'm a Software Engineer student
+* 🎓 I'm a Software Engineer student at UPNA
 * 🗂 You can see some of my projects here on GitHub
 * 🔭 I’m currently working on IOS App Development
 * ⚡ Fun fact: I'm a coffe lover ☕️
