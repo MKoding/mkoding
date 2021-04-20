@@ -10,7 +10,7 @@
 <!-- * 💻 I'm a (WORK) -->
 * 🎓 I'm a Software Engineer student at UPNA
 * 🗂 You can see some of my projects here on GitHub
-* 🔭 I’m currently working on IOS App Development
+* 🔭 I’m currently working on React Native, LEMP Server and Laravel
 * ⚡ Fun fact: I'm a coffee lover ☕️
 
 
