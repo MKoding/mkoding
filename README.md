@@ -10,7 +10,7 @@
 <!-- * 💻 I'm a (WORK) -->
 * 🎓 I'm a Software Engineer student at UPNA
 * 👨🏻‍💻 Happily working at <a href="https://540deg.com" target="_blank">540</a>
-* 🗂 You can see some of my projects here on GitHub
+* 🗂 You can have a look at some of my projects here in GitHub
 * 🔭 I’m currently working on Laravel, PHP, Hexagonal Architecture...
 * 📖 Last reading: "Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin Series)"
 * ⚡ Fun fact: I'm a coffee lover and retro videogame player ☕️🕹
