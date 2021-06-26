@@ -1,7 +1,7 @@
 <h3 align="center">Hello world, I'm Mikel Romano - aka MKoding</h3>
 
 <p align="center">
-  <a href="https://twitter.com/MKoding_"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/MKoding_?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://twitter.com/MKoding_" target="_blank"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/MKoding_?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/mkoding"><img alt="followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/mkoding?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
 </p>
 
@@ -9,9 +9,11 @@
 
 <!-- * 💻 I'm a (WORK) -->
 * 🎓 I'm a Software Engineer student at UPNA
+* 👨🏻‍💻 Happily working on <a href="https://540deg.com" target="_blank">540</a>
 * 🗂 You can see some of my projects here on GitHub
-* 🔭 I’m currently working on React Native, LEMP Server and Laravel
-* ⚡ Fun fact: I'm a coffee lover ☕️
+* 🔭 I’m currently working on Laravel, PHP, Hexagonal Architecture...
+* 📖 Last reading: "Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin Series)"
+* ⚡ Fun fact: I'm a coffee lover and retro videogame player ☕️🕹
 
 
 ## 📈 Github Stats
