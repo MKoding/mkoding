@@ -18,19 +18,8 @@
 
 ## 📈 Github Stats
 
-<details>
-  <summary>📊 GitHub Stats</summary>
-  <br/>
-  <a href="https://github.com/mkoding#"><img alt="Mikel Romano's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mkoding&show_icons=true&count_private=true&hide=" /></a>
-</details>
-
-<details> 
-  <summary>💻 Most used languages</summary>
-  <br/>
-  <a href="https://github.com/mkoding#"><img alt="Mikel Romano's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkoding&langs_count=10&layout=compact#" /></a>
-  <br/>
-  <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
-</details>
+My contribution graph get eaten by the snake 🐍
+![snake gif](https://github.com/MKoding/mkoding/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 
