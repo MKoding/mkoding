@@ -9,10 +9,10 @@
 
 <!-- * 💻 I'm a (WORK) -->
 * 🎓 I'm a Software Engineer graduate at UPNA
-* 👨🏻‍💻 Happily working at <a href="https://540deg.com" target="_blank">540</a>
+* 👨🏻‍💻 Currently working at <a href="https://540deg.com" target="_blank">540</a>
 * 🗂 You can have a look at some of my projects here in GitHub
-* 🔭 I’m currently working on Laravel, PHP, Hexagonal Architecture, Hotwire...
-* 📖 Last reading: "Domain-Driven Design in PHP (Christian Soronellas, Carlos Buenosvinos, Keyvan Akbary)"
+* 🔭 I’m currently working on Laravel, Hotwire, DDD, Hexagonal Architecture...
+* 📖 Last reading: "Shape Up by Ryan Singer"
 * ⚡ Fun fact: I'm a coffee lover and retro videogame player ☕️🕹
 
 
@@ -20,20 +20,3 @@
 
 My contribution graph get eaten by the snake 🐍
 ![snake gif](https://github.com/MKoding/mkoding/blob/output/github-contribution-grid-snake.svg)
-
-<!--
-
-**MKoding/mkoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
