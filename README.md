@@ -19,4 +19,4 @@
 ## 📈 Github Stats
 
 My contribution graph get eaten by the snake 🐍
-![snake gif](https://github.com/MKoding/mkoding/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/MKoding/mkoding/blob/output/github-contribution-grid-snake-dark.svg)
