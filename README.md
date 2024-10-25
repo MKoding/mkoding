@@ -12,7 +12,7 @@
 * 👨🏻‍💻 Currently working at <a href="https://540deg.com" target="_blank">540</a>
 * 🗂 You can have a look at some of my projects here in GitHub
 * 🔭 I’m currently working on Laravel, Hotwire, DDD, Hexagonal Architecture...
-* 📖 Last reading: "Shape Up by Ryan Singer"
+* 📖 Last reading: "CQRS by Example"
 * ⚡ Fun fact: I'm a coffee lover and retro videogame player ☕️🕹
 
 
