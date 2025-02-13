@@ -9,9 +9,10 @@
 
 <!-- * 💻 I'm a (WORK) -->
 * 🎓 I'm a Software Engineer graduate at UPNA
-* 👨🏻‍💻 Currently working at <a href="https://540deg.com" target="_blank">540</a>
+* 👨🏻‍💻 Currently working at <a href="https://commerce.orisha.com/es/" target="_blank">Orisha Commerce</a>
 * 🗂 You can have a look at some of my projects here in GitHub
-* 🔭 I’m currently working on Laravel, Hotwire, DDD, Hexagonal Architecture...
+* 🔭 I’m currently working on React, Atomic Design, CSS, Java...
+* ✍🏻 I have experience working with Laravel, DDD, Hexagonal Architecture, testing, CQRS...
 * 📖 Last reading: "CQRS by Example"
 * ⚡ Fun fact: I'm a coffee lover and retro videogame player ☕️🕹
 
