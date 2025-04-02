@@ -9,7 +9,7 @@
 
 <!-- * 💻 I'm a (WORK) -->
 * 🎓 I'm a Software Engineer graduate at UPNA
-* 👨🏻‍💻 Currently working at <a href="https://commerce.orisha.com/es/" target="_blank">Orisha Commerce</a>
+* 👨🏻‍💻 Currently working at <a href="https://www.mrcsoluciones.es/" target="_blank">MRC</a>
 * 🗂 You can have a look at some of my projects here in GitHub
 * 🔭 I’m currently working on React, Atomic Design, CSS, Java...
 * ✍🏻 I have experience working with Laravel, DDD, Hexagonal Architecture, testing, CQRS...
